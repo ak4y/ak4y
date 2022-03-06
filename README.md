@@ -1,5 +1,8 @@
 # Hi There, I'm Ugur - aka Lynx 👋
 
+
+![](https://komarev.com/ghpvc/?username=benlynx&style=flat-square&color=lightgrey)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -33,4 +36,5 @@
 <br />
 <br />
 
-![](https://komarev.com/ghpvc/?username=benlynx&style=flat-square&color=lightgrey)
+---
+
