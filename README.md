@@ -1,8 +1,8 @@
-# Hi There, I'm Ugur - ak4y 👋
+# Hi There, I'm ak4y 👋
 
 ![](https://komarev.com/ghpvc/?username=ak4y&style=flat-square&color=lightgrey)
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ak4y&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="ak4y's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ak4y&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 <br />
 <br />
 <br />
